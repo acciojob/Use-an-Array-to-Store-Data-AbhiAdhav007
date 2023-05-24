@@ -1,1 +1,1 @@
-
+const yourArray  = ["abhi" , 23 , true , {one : 1 , name:"abhi"} ,function(){let a = 2}]
